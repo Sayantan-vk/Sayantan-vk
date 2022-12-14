@@ -27,11 +27,11 @@
   <h3> I'm 22 years old Self-taught Web developer from Kolkata, India.</h3>
 </p>
 
- - 🥀 Learning Python , Java
+ - 🥀 Learning Python , Java 
  
  - <i>with Javascript,Css, Html, Sql.</i>
    
- - 🔭 Cricket FanBoi , King Kohili FanBoi.
+ - 🏏 Cricket FanBoi , 👑 King Kohili BigFan.
  
  - I do fullstack and a bit of everything :heart:
  
