@@ -31,7 +31,7 @@
  
  - <i>with Javascript,Css, Html, Sql.</i>
    
- - 🏏 Cricket FanBoi , 👑 King Kohili BigFan.
+ - 🏏 Cricket FanBoi , 👑 King Kohli BigFan.
  
  - I do fullstack and a bit of everything :heart:
  
